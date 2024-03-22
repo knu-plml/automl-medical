@@ -18,12 +18,12 @@ Lastly, execute 'data.py' for data preprocessing.
 python3 data.py
 ```
 
-Now, Datasets are ready to be used in AutoML.
+Now, Datasets are ready to be used in AutoMLs.
 
 # Train, Test AutoML
-### Note, AutoML for medical imaging(MedMNIST(2D, 3D) and ISIC-2020) have some issues, will be updated soon.
+### Note, AutoMLs for medical imaging(MedMNIST(2D, 3D) and ISIC-2020) have some issues, will be updated soon.
 
-The way to train AutoML.
+The way to train/test AutoML.
 ```
 cd src
 python3 main.py --data <dataset_name> --output_root <output_directory> --train_flag <train_flag> --model <model_name>
