@@ -30,7 +30,7 @@ python3 main.py --data <dataset_name> --output_root <output_directory> --train_f
 ```
 
 Arguments:<br>
-<dataset_name>: Name of the dataset [cardio, nheb, mitbih, cinc] # MedMNIST2D, 3D, and ISIC-2020 will be updated soon.<br>
-<output_directory>: Directory where the model and results will be saved.<br>
-<train_flag>: Set to 1 for training or 0 for testing.<br>
-<model_name>: Choose one of the AutoML models [autosklearn, tpot, autokeras, autogluon].
+```<dataset_name>```: Name of the dataset [cardio, nheb, mitbih, cinc] # MedMNIST2D, 3D, and ISIC-2020 will be updated soon.<br>
+```<output_directory>```: Directory where the model and results will be saved.<br>
+```<train_flag>```: Set to 1 for training or 0 for testing.<br>
+```<model_name>```: Choose one of the AutoML models [autosklearn, tpot, autokeras, autogluon].
