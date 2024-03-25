@@ -4,7 +4,7 @@ Currently, we support four AutoML frameworks [AutoGluon](https://github.com/auto
 
 To test, download the above programs into your environment.
 
-# Get datasets
+## Get datasets
 First, run 'mkdir.py' to create directories for the datasets.
 ```
 python3 mkdir.py
@@ -20,7 +20,7 @@ python3 data.py
 
 Now, the datasets are ready to be used in AutoMLs.
 
-# Train and Test AutoML
+## Train and Test AutoML
 ### The code for using AutoML for medical imaging (MedMNIST(2D, 3D) and ISIC-2020) has some issues and will be uploaded soon.
 
 The way to train/test AutoML.
