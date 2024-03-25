@@ -13,6 +13,7 @@
 ---
 5. Click on 'CREATE OR SELECT A PROJECT' and select the project you created.
 ![5](https://github.com/knu-plml/automl-medical/assets/89115326/b099aa0c-8f34-4075-be08-3af61d17aba1)
+---
 6. Once when you are in your project, click on the searchbar on the top and search for 'Vertext AI'.
 ![6](https://github.com/knu-plml/automl-medical/assets/89115326/9301e615-2771-4ebd-9860-53da9356bcd7) 
 ---
