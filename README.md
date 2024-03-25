@@ -34,3 +34,5 @@ Arguments:<br>
 ```<output_directory>```: Directory where the model and results will be saved.<br>
 ```<train_flag>```: Set to 1 for training or 0 for testing.<br>
 ```<model_name>```: Choose one of the AutoML models [autosklearn, tpot, autokeras, autogluon].
+
+### To use Google AutoML or Amazon SageMaker Autopilot, you may want to take a look at [GoogleAutoML(VertexAI).md](GoogleAutoML(VertexAI).md) or [SageMaker(Autopilot).md](SageMaker(Autopilot).md).
