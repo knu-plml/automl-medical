@@ -38,23 +38,23 @@
 14. From 'Training method', select 'AutoML' and 'CONTINUE'.
 ![13](https://github.com/knu-plml/automl-medical/assets/89115326/10e3fa70-4cde-482a-aeb8-268219707db7)
 ---
-15. From 'Model detail', select the target column (cardio) and 'CONTINUE'.
+15. From 'Model details', select the target column (cardio) and 'CONTINUE'.
 ![14](https://github.com/knu-plml/automl-medical/assets/89115326/168dcc7c-308f-44d2-8a20-4f281b88c013)
 ---
 * Note: If you click 'ADVANCED OPTIONS', it is possible to adjust the data split.
 ![15](https://github.com/knu-plml/automl-medical/assets/89115326/b4fffc08-2fb1-4d50-a81b-69594dc6f3a5)
 ---
-16. Click 'CONTINUE'
+16. Click 'CONTINUE'.
 ![16](https://github.com/knu-plml/automl-medical/assets/89115326/2f9b27f5-862b-47c7-b8bf-0c908e5b49f6)
 ---
-17. From 'Training options', select all feature columns that are necessary and 'CONTINUE'
+17. From 'Training options', select all feature columns that are necessary and 'CONTINUE'.
 ![17](https://github.com/knu-plml/automl-medical/assets/89115326/c1faa0b7-1f11-416f-b772-426e7f059d32)
 ---
 18. From 'Compute and pricing', put '1' for 'Budget' and click 'START TRAINING'.
 ![18](https://github.com/knu-plml/automl-medical/assets/89115326/ab6f5421-6039-4089-8bf5-4c9c9352a7d1)
 ---
-19. You can check your training by clicking 'Training' from 'TOOLS' in the 'MODEL DEVELOPMENT' section. After the training is finished, click on the finished training
+19. You can check your training by clicking 'Training' from 'TOOLS' in the 'MODEL DEVELOPMENT' section. After the training is finished, click on the finished training.
 ![20](https://github.com/knu-plml/automl-medical/assets/89115326/1103f4b1-2b6c-4825-9871-a00173cfd60b)
 ---
-20. Check the result
+20. Check the result.
 ![19](https://github.com/knu-plml/automl-medical/assets/89115326/abb65612-60b3-4efb-b2c8-5ffb578503b4)
