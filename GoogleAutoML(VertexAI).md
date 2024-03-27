@@ -29,10 +29,10 @@
 11. Select 'Upload CSV files from your computer' from 'Select a data source' and 'SELECT FILES' to upload your file.(ex:cardio.csv)
 ![10](https://github.com/knu-plml/automl-medical/assets/89115326/823dae4f-f394-42b9-a742-9c06d5e6a6be)
 ---
-12. Select your 'Cloud Storage' path by clicking 'BROWSE'. There will be a bucket that is generated automatically. Click on your bucket from the 'Buckets' list, click 'SELECT' and click 'CONTINUE'.
+12. Select your cloud storage path by clicking 'BROWSE'. There will be a bucket that is generated automatically. Click on your bucket from the 'Buckets' list, click 'SELECT' and click 'CONTINUE'.
 ![11](https://github.com/knu-plml/automl-medical/assets/89115326/63842c1b-e47d-4a17-aff8-032525cf0cf1)
 ---
-13. Click 'TRAIN NEW MODEL' from the left side of your screen and select 'Other'.
+13. Click 'TRAIN NEW MODEL' from the right side of your screen and select 'Other'.
 ![12](https://github.com/knu-plml/automl-medical/assets/89115326/a6814c82-ce8b-420d-b36b-eb6ca2039a19)
 ---
 14. From 'Training Method', select 'AutoML' and 'CONTINUE'.
