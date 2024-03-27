@@ -1,8 +1,8 @@
 ### Amazon SageMaker Autopilot
 
-1. Log in to AWS
+1. Log in to AWS.
 ---
-2. Search for 'Autopilot' in the search bar
+2. Search for 'Autopilot' in the search bar.
 ![9](https://github.com/knu-plml/automl-medical/assets/89115326/aafc847b-f56f-4fea-b662-52a0902e9f68)
 ---
 3. Click on 'Set up for single user'. This will take a few minutes to complete.
