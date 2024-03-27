@@ -1,23 +1,23 @@
 ### Google Cloud AutoML 
 1. Log in to Google and go to the Google Cloud main menu.
-
-2. Click on 'Go to console'.
+---
+2. Click 'Go to console'.
 ![1](https://github.com/knu-plml/automl-medical/assets/89115326/9dde30f1-6a34-4b5a-9c37-ab69445e6fad)
 ---
-3. Click on 'CREATE OR SELECT A PROJECT'.
+3. Click 'CREATE OR SELECT A PROJECT'.
 ![2](https://github.com/knu-plml/automl-medical/assets/89115326/648b12b9-0d01-4e5d-9ec9-0bad0c3f976d)
 ---
-4. Click on 'NEW PROJECT' from the top right corner of the screen, enter your project name, and create.
+4. Click 'NEW PROJECT' from the top right corner of the screen, enter your project name, and create.
 ![3](https://github.com/knu-plml/automl-medical/assets/89115326/c0936f87-9757-41d6-9b6f-ad96b38d1584)
 ![4](https://github.com/knu-plml/automl-medical/assets/89115326/8a7dd317-2682-476c-8c3e-cd491c03eddc)
 ---
-5. Click on 'CREATE OR SELECT A PROJECT' and select the project you created.
+5. Click 'CREATE OR SELECT A PROJECT' and select the project you created.
 ![5](https://github.com/knu-plml/automl-medical/assets/89115326/b099aa0c-8f34-4075-be08-3af61d17aba1)
 ---
-6. Once you are in your project, click on the search bar at the top and search for 'Vertex AI'.
+6. Once you are in your project, click the search bar at the top and search for 'Vertex AI'.
 ![6](https://github.com/knu-plml/automl-medical/assets/89115326/9301e615-2771-4ebd-9860-53da9356bcd7) 
 ---
-7. Before you start, click on 'ENABLE ALL RECOMMENDED APIS'.
+7. Before you start, click 'ENABLE ALL RECOMMENDED APIS'.
 ![7](https://github.com/knu-plml/automl-medical/assets/89115326/f2685b36-45f5-47ec-884e-9ef952674465)
 ---
 8. Select 'Dataset' from the 'TOOL' on the left of your screen and click 'CREATE DATASET'.
