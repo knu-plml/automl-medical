@@ -58,3 +58,4 @@
 ---
 19. Check the result.
 ![19](https://github.com/knu-plml/automl-medical/assets/89115326/abb65612-60b3-4efb-b2c8-5ffb578503b4)
+---
