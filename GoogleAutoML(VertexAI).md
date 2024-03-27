@@ -26,7 +26,7 @@
 10. Select the 'TABULAR' tab, select 'Regression/Classification', and click 'CREATE'.
 ![9](https://github.com/knu-plml/automl-medical/assets/89115326/18075a1c-6715-4b17-8d8d-dd8449d57321)
 ---
-11. Select 'Upload CSV files from your computer' from 'Select a data source' and 'SELECT FILES' and upload your file.(ex:cardio.csv)
+11. Select 'Upload CSV files from your computer' from 'Select a data source' and 'SELECT FILES' to upload your file.(ex:cardio.csv)
 ![10](https://github.com/knu-plml/automl-medical/assets/89115326/823dae4f-f394-42b9-a742-9c06d5e6a6be)
 ---
 12. Select your 'Cloud Storage' path by clicking 'BROWSE'. There will be a bucket that is generated automatically. Click on your bucket from the 'Buckets' list, click 'SELECT' and click 'CONTINUE'.
