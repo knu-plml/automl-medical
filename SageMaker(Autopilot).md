@@ -17,19 +17,19 @@
 6. Click 'Open in Canvas'. If you don't have 'Open in Canvas', you will have a 'Create' button instead. Create it and open it.
 ![2](https://github.com/knu-plml/automl-medical/assets/89115326/b8132829-dba8-4c03-8900-d0c611cded8c)
 ---
-7. Click 'Create New Model'.
+7. Click 'Create new model'.
 ![3](https://github.com/knu-plml/automl-medical/assets/89115326/3649a17d-5853-493a-ba55-339569b28be6)
 ---
-8. Select 'Predictive Analysis' and create.
+8. Select 'Predictive analysis' and create.
 ![4](https://github.com/knu-plml/automl-medical/assets/89115326/609b11f6-f4f6-4928-9da9-aa90582b7913)
 ---
-9. Click 'Create Dataset' in the upper right corner.
+9. Click 'Create dataset' in the upper right corner.
 ![5](https://github.com/knu-plml/automl-medical/assets/89115326/839b81eb-cc9d-4654-a661-3efcd1f6a9da)
 ---
 10. Name the dataset and click 'Create'.
 ![6](https://github.com/knu-plml/automl-medical/assets/89115326/3c9f418a-1411-4995-9672-61948f504948)
 ---
-11. Select the dataset you want to analyze (ex:cardio.csv) from your desktop and click 'Preview Dataset'. After reviewing the dataset, create the dataset.
+11. Select the dataset you want to analyze (ex:cardio.csv) from your desktop and click 'Preview dataset'. After reviewing the dataset, create the dataset.
 ![7](https://github.com/knu-plml/automl-medical/assets/89115326/88429850-baea-414b-88b9-a36f1ca2482f)
 ---
 12. After successfully creating a dataset, select your dataset and click 'Select dataset'.
