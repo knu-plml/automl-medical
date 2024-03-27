@@ -5,10 +5,10 @@
 2. Search for 'Autopilot' in the search bar.
 ![9](https://github.com/knu-plml/automl-medical/assets/89115326/aafc847b-f56f-4fea-b662-52a0902e9f68)
 ---
-3. Click on 'Set up for single user'. This will take a few minutes to complete.
+3. Click 'Set up for single user'. This will take a few minutes to complete.
 ![10](https://github.com/knu-plml/automl-medical/assets/89115326/25ffb5ee-e0d9-4c52-b0fc-337918c9808f)
 ---
-4. When finished, a domain will be created automatically. Click on 'Domains' in the toolbar on the left and click on your domain. Click 'Launch' and select 'Studio'.
+4. When finished, a domain will be created automatically. Click 'Domains' in the toolbar on the left and click on your domain. Click 'Launch' and select 'Studio'.
 ![11](https://github.com/knu-plml/automl-medical/assets/89115326/904c50d0-0053-4e3b-a776-c1efedff9319)
 ---
 5. Select 'AutoML' on the left side or the icon in the bottom right corner of the main page.
